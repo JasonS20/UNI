@@ -5,3 +5,6 @@
 
 
 [![Releases](https://img.shields.io/github/release/JasonS20/UNI/all.svg?style=flat-square)](https://github.com/JasonS20/UNI/releases)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/JasonS20/UNI/main.yml?branch=develop)
