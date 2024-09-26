@@ -1,1 +1,3 @@
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/jasons20/uni/main.yml?branch=master)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/JasonS20/UNI/main.yml?branch=master)
+[![LICENSE](https://img.shields.io/github/license/JasonS20/sem.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/JasonS20/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
